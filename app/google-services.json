@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "829842952607",
+    "project_id": "sanyagavrsam",
+    "storage_bucket": "sanyagavrsam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829842952607:android:5737e64a971c20091f6daa",
+        "android_client_info": {
+          "package_name": "com.example.sanyagavrsam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE3fMmUid6K9_6qNbzFX-kQJEAgea6xdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
